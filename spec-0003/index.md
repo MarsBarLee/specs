@@ -9,31 +9,13 @@ discussion: https://discuss.scientific-python.org/t/discussion-accessible-open-s
 endorsed-by:
 ---
 
-{{< notice warning >}}
-This is a draft document.
-{{< /notice >}}
-
----
-title: "SPEC 3 — Accessible Images: Writing Alt-Text for Open-Source-Software"
-date: 2022-01-19
-draft: true
-author:
-  - "Mars Lee <mlee@quansight.com>"
-  - "Isabela Presedo-Floyd <ipresedo@quansight.com>"
-discussion: https://discuss.scientific-python.org/t/discussion-accessible-open-source-projects/63
-endorsed-by:
----
-
-{{< notice warning >}}
-This is a draft document.
-{{< /notice >}}
-
-## Motivation/Background/Description/Usage
+## Motivation
 - Accessibility is about making technology accessible to the full range of human experience, which includes disabilities.
 - Accessible open-source software reaches more people, including people with disabilities.
 - There are many guidelines for making technology accessible, and WCAG (Web Content Accessibility Guidelines) is most referred to for web-based accessibility.
 - WCAG is a cornerstone for the SPEC guidelines, but it has been modified to suit the process, format and technical demands of open-source software development.
 - These SPEC guidelines are to help the community interpret and apply it consistently.
+
 ## Scope
 This SPEC's scope is on making visual media accessible to people with various different visual disabilities
 ## Description
