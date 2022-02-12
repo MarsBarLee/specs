@@ -176,7 +176,7 @@ Alt-text is rendered on web-pages as the HTML alt attribute [citation to MDN]. W
 There are many excellent resources available for writing alt-text, such as the Web Content Accessibility Guidelines (WCAG). However, there are many concerns specific to scientific Python open-source projects that WCAG does not adequately address. Therefore this SPEC aims to provide guidelines for writing alt-text for scientific Python open-source projects..
 
 
-There are other worthwhile concerns about how open-source can be more accessible, such as creating CI tests that check if alt-text is included in a contribution with images. However, the implementation of that is beyond the scope of this SPEC. These are worthwhile topics for future SPECs.
+There are other worthwhile concerns about how open-source can be more accessible, such as keyboard accessibility. However, the implementation of that is beyond the scope of this SPEC. These are worthwhile topics for future SPECs.
 
 ## Description of deliverables
 The desired outcomes from the adoption of this SPEC is:
